@@ -31,7 +31,7 @@ Your task is to style the given `index.html` file so that the product cards are 
 
 If you finish early, consider the following:
 
-1. Style the "Add to cart" buttons so that the cursor and background color change when a user hovers over the button.
+1. Style the "Add to cart" buttons so that the type of the cursor and the color of the background change when a user hovers over the button.
 2. Check your CSS for any repeated declarations. Is it possible to merge rules or apply the same declarations to multiple selectors?
 
 ## Submission
